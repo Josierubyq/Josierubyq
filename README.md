@@ -6,7 +6,7 @@
 ## 🔬 About Me
 I am a final-year CS student at Ritsumeikan University (Osaka, Japan), focusing on **long-video understanding**, **multimodal representation learning**, and **LLM-based multi-agent systems**.
 
-Currently a research intern at **CUHK-Shenzhen**, working on **self-evolving agent structures**, neural bandits, and LLM workflow optimization.
+Currently a visiting student at **CUHK**, working on **multiagent prompt optimization**, neural bandits, and LLM workflow optimization.
 
 ---
 
