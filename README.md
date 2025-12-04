@@ -58,27 +58,15 @@ Currently a visiting student at **CUHK**, working on **multiagent prompt optimiz
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-## 🌐 Languages
-![Chinese](https://img.shields.io/badge/Chinese-Native-blue)
-![English](https://img.shields.io/badge/English-TOEFL_116-007ACC)
-![Japanese](https://img.shields.io/badge/Japanese-JLPT_N2_144-FF4B4B)
 
 ---
 
 # Awards / Honors
 
-![Full Tuition Waiver](https://img.shields.io/badge/Full%20Tuition%20Waiver-Ritsumeikan%20University-gold?style=for-the-badge)
-
-![Saionji Memorial Scholarship](https://img.shields.io/badge/Saionji%20Memorial%20Scholarship-2023-gold?style=flat-square)
-![Fuji Seal Scholarship](https://img.shields.io/badge/Fuji%20Seal%20Foundation-2024--2026-blueviolet?style=flat-square)
-![Saionji Memorial Scholarship](https://img.shields.io/badge/Saionji%20Memorial%20Scholarship-2025-gold?style=flat-square)
-![Athlete & Creator Scholarship](https://img.shields.io/badge/Athlete%20%26%20Creator%20Dev.-Ritsumeikan%202025-orange?style=flat-square)
+- **Full Tuition Waiver — Ritsumeikan University** (2022–Present)
+- **Saionji Memorial Scholarship (Academically Outstanding Students Category)** (2023)
+- **Fuji Seal Foundation Scholarship (only seven international students been selected)** (2024–2026)
+- **Saionji Memorial Scholarship (Academically Outstanding Students Category)** (2025)
+- **Athlete and Creator Development Scholarship — Ritsumeikan University** (2025)
 
 ---
-
-# GitHub Stats
-
-![Josie's GitHub stats](https://github-readme-stats.vercel.app/api?username=josierubyq&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josierubyq&layout=compact&theme=radical)
-
