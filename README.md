@@ -73,7 +73,7 @@ Currently a visiting student at **CUHK**, working on **multiagent prompt optimiz
 
 ## 🎨 Beyond Research
 
-Outside machine learning, I write quiet pieces of music, take still photographs, and travel to places that change how I see light and shape. I keep a small archive of these creative experiments on Bilibili—simple, personal, and always unfinished.
+Outside machine learning, I write quiet pieces of music, take still photographs, and travel to places that change how I see light and shape. I keep a small archive of these creative experiments on Bilibili.
 
 ---
 
