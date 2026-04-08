@@ -18,7 +18,7 @@ This motivation drives all the directions I work in.
 
 I am a final-year CS student at Ritsumeikan University (Osaka, Japan).
 
-Currently a visiting student at **CUHK**, working on **multiagent prompt optimization**.
+Currently a visiting student at **CUHK-Shenzhen**, working on **multiagent prompt optimization**.
 
 ---
 
