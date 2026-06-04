@@ -16,7 +16,7 @@ and to design model and agent architectures that better approximate how humans o
 
 This motivation drives all the directions I work in.
 
-I am a final-year CS student at Ritsumeikan University (Osaka, Japan).
+I am a first-year CS student at The University of Tokyo.
 
 Currently a visiting student at **CUHK-Shenzhen**, working on **multiagent prompt optimization**.
 
