@@ -30,12 +30,6 @@ Currently a visiting student at **CUHK-Shenzhen**, working on **multiagent promp
 
 ---
 
-# 📝 Publications
-- **CnPBERT: Facilitating Chinese Online Petition Classification through Domain-Specific Pretraining**  
-  *BDEE 2025* *In print*
-
----
-
 # Skills
 
 ## 🔧 Technical Languages
