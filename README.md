@@ -55,15 +55,6 @@ Currently a visiting student at **CUHK-Shenzhen**, working on **multiagent promp
 
 ---
 
-# Awards / Honors
-
-- **Full Tuition Waiver — Ritsumeikan University** (2022–Present)
-- **Saionji Memorial Scholarship (Academically Outstanding Students Category)** (2023)
-- **Fuji Seal Foundation Scholarship (only seven international students been selected)** (2024–2026)
-- **Saionji Memorial Scholarship (Academically Outstanding Students Category)** (2025)
-- **Athlete and Creator Development Scholarship — Ritsumeikan University** (2025)
-
----
 
 ## 🎨 Beyond Research
 
